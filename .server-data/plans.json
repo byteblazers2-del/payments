@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p1",
+    "description": "High-speed DEX/CEX arbitrage route with daily automated payout",
+    "expectedReturnPct": 4.8,
+    "durationDays": 7,
+    "dailyReturnPct": 0.68,
+    "minAmount": 20,
+    "name": "Flash Arbitrage (HFT Micro-Route)",
+    "badge": "HFT FLASH",
+    "isActive": true,
+    "maxAmount": 1000
+  },
+  {
+    "id": "p2",
+    "expectedReturnPct": 10.5,
+    "isActive": true,
+    "name": "Triangular Multi-Route (Matrix Bot)",
+    "minAmount": 50,
+    "durationDays": 14,
+    "description": "Triangular cross-market scanner capturing high-spread order books",
+    "badge": "TRIANGULAR AI",
+    "dailyReturnPct": 0.75,
+    "maxAmount": 5000
+  },
+  {
+    "id": "p3",
+    "durationDays": 30,
+    "description": "Autonomous MEV and liquidity routing algorithm with compounded yield",
+    "badge": "VOLUME TIER",
+    "dailyReturnPct": 0.8,
+    "isActive": true,
+    "minAmount": 200,
+    "name": "Deep Liquidity Pool (Institutional)",
+    "maxAmount": 20000,
+    "expectedReturnPct": 24
+  },
+  {
+    "id": "p4",
+    "dailyReturnPct": 0.9,
+    "name": "VIP Dark-Pool Fund (Whale Tier)",
+    "durationDays": 60,
+    "minAmount": 1000,
+    "expectedReturnPct": 54,
+    "description": "Private dark-pool institutional routing and high-frequency execution",
+    "isActive": true,
+    "maxAmount": 100000,
+    "badge": "VIP ULTRA"
+  }
+]
